@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50mm" height="40mm" viewBox="0 0 50 40">
+<g id="demo-label"><rect width="50" height="40" fill="#e4eddf"/>
+<path d="M4 8L10 4L16 8L10 12Z" fill="#48785e"/>
+<text x="4" y="22" font-family="Arial" font-size="4" fill="#254b37">LABEL LAB</text>
+<text x="4" y="30" font-family="Arial" font-size="2.5" fill="#4c6655">SYNTHETIC SOURCE / 50 x 40 mm</text></g></svg>

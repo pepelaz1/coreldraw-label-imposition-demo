@@ -1,0 +1,13 @@
+test_clearance_and_centering (test_planner.LayoutTests) ... ok
+test_compression_after_grid (test_planner.LayoutTests) ... ok
+test_demo_geometry (test_planner.LayoutTests) ... ok
+test_every_label_inside_web (test_planner.LayoutTests) ... ok
+test_exact_fit (test_planner.LayoutTests) ... ok
+test_invalid_numbers (test_planner.LayoutTests) ... ok
+test_oversize_label (test_planner.LayoutTests) ... ok
+test_reverse_svg_is_whole_composition (test_planner.LayoutTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK
